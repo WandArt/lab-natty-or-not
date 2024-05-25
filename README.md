@@ -8,7 +8,7 @@ bem como seus limites.
 ## 🤖 Tecnologias Utilizadas
 Story spark ai
 https://storyspark.ai/
-chat gpt
+
 
 ## 🧐 Processo de Criação
 Planejava originalmente craiar tirinhas mas optei por literatura
